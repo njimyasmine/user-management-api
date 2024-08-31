@@ -1,0 +1,79 @@
+[
+  {
+    "id": "979bfca6-b1d2-4140-b277-47443f300f7a",
+    "name": "Seif",
+    "email": "seif@gmail.com",
+    "password": "$2a$10$WBuKbsc5SuWmAYOgjo3UG.DfMz37uybfWcngrUvS1ejEuEwBCk7H.",
+    "createdAt": "2024-08-30T11:38:36.003Z"
+  },
+  {
+    "id": "7da09b54-bdab-4312-ad7b-293483cae2e7",
+    "name": "Erij",
+    "email": "erij@example.com",
+    "password": "$2a$10$tZRUPALwcZjttioSzdxbku5oWO9/JymzIZSkc/z2sg2mm/6S9DdFG",
+    "createdAt": "2024-08-30T11:44:39.112Z"
+  },
+  {
+    "id": "a406600c-17c5-4ebb-afd8-361ce1c535b3",
+    "name": "Ilef",
+    "email": "ilef@example.com",
+    "password": "$2a$10$UbfjvG/7it3TVNs37mtjrOVpScmNgfPoeIDLvMBGHY27sr8eX6kT6",
+    "createdAt": "2024-08-30T13:29:15.566Z"
+  },
+  {
+    "id": "1b3f77c6-8e12-4c36-9fd2-84952a3a7db8",
+    "name": "Michael Doe",
+    "email": "michael.doe@example.com",
+    "password": "$2a$10$QsO1/UhHcFYp.Eo4rz9Yv.WddBL5cVJYzzM4WkFBa1MZKY2Z0HLyO",
+    "createdAt": "2024-08-30T15:00:25.134Z"
+  },
+  {
+    "id": "204fd6bb-2a31-4af5-9d88-3146c9bb4324",
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "password": "$2a$10$HeT2o4kfL2JqBEmYZC1mjuZBvCHgFhlqLHTkVcD9zyO/sWZcUNuHa",
+    "createdAt": "2024-08-30T15:10:18.233Z"
+  },
+  {
+    "id": "e120fedb-8857-4e6f-906f-bc5ea2367509",
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "password": "$2a$10$3JbGzhMO5jbfKybQvdJsi.hBQ5VdMkzFB/8AYqOuoAIfYZ0zH0JZu",
+    "createdAt": "2024-08-30T15:15:42.789Z"
+  },
+  {
+    "id": "cd9f45c7-17b5-4f37-a47f-fc57899f8ef9",
+    "name": "Clara White",
+    "email": "clara.white@example.com",
+    "password": "$2a$10$CbQxft0FzU5EvDdGpVYyfO/yD6G1pDhAbTR01Wt7t02sZmkdy1pVG",
+    "createdAt": "2024-08-30T15:20:05.987Z"
+  },
+  {
+    "id": "a7411d69-bfcf-4c6d-8338-2b1f6889f3a5",
+    "name": "David Lee",
+    "email": "david.lee@example.com",
+    "password": "$2a$10$PvvJYsmKEz5FExOShs5dTe9ofPpCpCGSbDf1PaOje8JYfBNOriWae",
+    "createdAt": "2024-08-30T15:25:47.569Z"
+  },
+  {
+    "id": "fb8bcd7f-1c5d-4e2f-86e3-f74e7c8d4d5e",
+    "name": "Emma Brown",
+    "email": "emma.brown@example.com",
+    "password": "$2a$10$nXTe6hjTtNdTP0Wo8gC./fIal4O6XyREc6qVw9Nk8kWgIoS03rWyS",
+    "createdAt": "2024-08-30T15:30:12.345Z"
+  },
+  {
+    "id": "32fabc12-9474-4f2e-bd5e-15bc9a9fcf98",
+    "name": "Frank Green",
+    "email": "frank.green@example.com",
+    "password": "$2a$10$PTZfz/wRupc/7IHsl.yGb.Hf2B0gk/Rf0lBhJeCDG2S1x5DFDPOuq",
+    "createdAt": "2024-08-30T15:35:51.023Z"
+  },
+  {
+    "id": "10569564-5687-4b3c-98d9-f967f7ab26bb",
+    "name": "Ely",
+    "email": "Ely@gmail.com",
+    "password": "$2a$10$KfsAlGq5Qsdqvh1oGYg4auo89Vp1FMhgAH40FvgrOlITnzD3o9NwC",
+    "createdAt": "2024-08-31T12:50:56.933Z"
+  }
+]
